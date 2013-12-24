@@ -1,0 +1,44 @@
+ç# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Makefiles del Eclipse
+*.d
+Debug/
+FileSystem/Testdisk/
+FileSystem/log/
+FileSystem/Release/FileSystem
+FileSystem/scripts\ y\ utilitarios/disk.bin
+FileSystem/scripts\ y\ utilitarios/Log.*
+
+# Settings
+.settings
+/.settings
+
+# Files
+*.log
+
+/Nivel/logvalgrind.txt
+
+#Saves de scripts
+*.sh.save
+
+/Nivel/Release/nivel
+/Personaje/Release/personaje
+/Plataforma/Release/plataforma
+/FileSystem/Release/FileSystem
+/FileSystem/Log.txt
